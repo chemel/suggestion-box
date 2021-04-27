@@ -16,7 +16,7 @@
 
                     <?php if(isset($_GET['success']) && $_GET['success'] == 1): ?>
                         <div class="alert alert-success">
-                            Files sent, thank you !
+                            File(s) sent, thank you !
                         </div>
                     <?php endif; ?>
 
